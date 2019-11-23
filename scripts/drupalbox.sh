@@ -45,8 +45,8 @@ PASS_DRUPAL_MYSQL=cool@password
 DB_DRUPAL_MYSQL=drupal_dev
 
 # Admin User for Drupal Website
-USER_DRUPAL=guruji
-PASS_DRUPAL=2012@06@18
+USER_DRUPAL=admin
+PASS_DRUPAL=nimda
 
 # Admin User Email
 MAIL_DRUPAL=love@artofliving.org
